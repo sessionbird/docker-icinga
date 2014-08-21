@@ -26,6 +26,10 @@ docker build -t icinga:1.11.5 .
 docker run -p 8080:80 icinga:1.11.5
 ```
 
+## Kudos
+
+* Thanks to [Adrian Diu's](http://linoxide.com/author/adriand/) guide on [LinOxide](http://linoxide.com/monitoring-2/install-configure-icinga-linux/)!
+
 ## License
 
 Copyright 2014, Dominik Richter
