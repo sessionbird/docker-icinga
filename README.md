@@ -26,7 +26,7 @@ docker build -t icinga:1.11.5 .
 docker run -p 8080:80 icinga:1.11.5
 ```
 
-Now your browser at `http://localhost:8080/icinga/`.
+Now your browser at [http://localhost:8080/icinga/](http://localhost:8080/icinga/) and authenticate as `icingaadmin` with password `admin` (if left to default). Enjoy!
 
 ## Kudos
 
